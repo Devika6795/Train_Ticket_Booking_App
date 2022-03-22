@@ -1,0 +1,5 @@
+com\search_train\dao\SearchTrainDAO.class
+com\UserRegistration\UserRegistration.class
+com\UserRegistration\UserRegistrationCommonDAO.class
+com\display_train\TrainDAO.class
+com\display_train\DisplayTrain.class
